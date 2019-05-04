@@ -2,7 +2,7 @@
   "name": "parsexml",
   "version": "1.0.0",
   "description": "Parsing an xml file to the page",
-  "main": "src/parsexml.php",
+  "main": "src/idex.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
