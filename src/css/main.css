@@ -3,6 +3,18 @@
   --darkred: #d43542;
   --noveriusgrey: #29383d;
 }
+.card {
+  position: relative;
+}
+.stars {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 5px;
+  font-size: 1.2em;
+  border-radius: 8px;
+  background-color: hsla(0, 0%, 100%, .4);
+}
 .stars-inner {
   font-family: "Font Awesome 5 Free";
   position: absolute;
@@ -34,10 +46,7 @@ small.small {
 .btn-primary:hover, 
 .btn-primary:active, 
 .btn-primary:not(:disabled):not(.disabled):active {
-  background-color: var(--darkred);
-  border-color: var(--darkred);
-}
-.btn-outline-primary {
+  background-color: #fff;
   color: var(--red);
   border-color: var(--darkred);
 }
