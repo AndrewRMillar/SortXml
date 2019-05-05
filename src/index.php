@@ -17,54 +17,38 @@ $path = 'http://millar-knorr.nl/test/xml/accofeed.xml';
 $xml_file = file_get_contents($path);
 $ob = simplexml_load_string($xml_file, 'SimpleXMLElement', LIBXML_NOCDATA);
 
-/**** 
- * Start sort
- * So this works but only the title or the price is ordered 
- * the rest of the simplexml array seems to be left out
- ****/
-
-$naam = $ob->xpath('/items/item/accommodation_name');
-$price = $ob->xpath('/items/item/minimum_price');
-function sort_xml($t1, $t2) {
-    return strcmp($t1, $t2);
-} 
-/****
- * End sort
- ****/
-
+// Sorteer start, maak er nog een functie van
 $sorteer = "";
 if( $_GET["sorteer"] === "prijs") {
   $sorteer = htmlspecialchars($_GET["sorteer"]);
-  usort($price, 'sort_xml');
-  // var_dump($price);
+  $sort_variable = "price";
 } else if ($_GET["sorteer"] === "naam") {
   $sorteer = htmlspecialchars($_GET["sorteer"]);  
-  usort($naam, 'sort_xml');
-  // var_dump($name);
+  $sort_variable = "accommodation_name";
 }
-/****
- * Alt Sort
- ****/
+
+// Maak een sorteerbare array uit het simplexml_load_string object
 $sortable = array();
 foreach($ob->item as $node) {
   $sortable[] = $node;
 }
 
 function sort_by($a, $b) {
-  // sort by price
-  $retval = strnatcmp($a->accommodation_name, $b->accommodation_name);
+  // sort by price or accommodation_name
+  global $sort_variable;
+  $retval = strnatcmp($a->{$sort_variable}, $b->{$sort_variable});
   return $retval;
 }
 
 usort($sortable, 'sort_by');
 
-print_r($sortable);
-/****
- * End alt sort
- ****/
+// print_r($sortable);
+// End sort
 
-$json = json_encode($ob);
+$json = json_encode($sortable);
+// $json = json_encode($ob);
 $data_array = json_decode($json, true);
+// Catagories are not used but used as a reference
 $catagories = ["category", "description", "img_small", "link", "minimum_price", "departure_date", "title", "accommodation_name", "city_of_destination", "continent_of_destination", "country_of_destination", "accommodation_type", "holiday_type", "region_of_destination", "stars"];
 
 function formatItems($item) {
@@ -121,10 +105,7 @@ function formatDate($str) {
     <?php 
       foreach ($data_array as $items) { 
         // Krijg de eerste array met items uit het json object
-        foreach ($items as $item) {
-          // Krijg de individuele item assoc uit de items array en echo het resultaat van formatItems()
-          echo formatItems($item);
-        }
+        echo formatItems($items);
       }    
     ?>
   </div>
