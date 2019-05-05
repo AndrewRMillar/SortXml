@@ -1,243 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Een gezellige camping op het mooie eiland Elba. Pal aan een zandstrand en met een mooi groot zwembad. Volop mogelijkheden voor watersport in de buurt. Van de veerboot het eiland Elba op stappen is één ding. Aankomen op camping Ville Degli Ulivi - en de warme zon voelen, de zilte zeelucht ruiken en de kleurrijke bloemen zien - is iets heel andersâ?¦ Reken op een warm welkom. Een van de beste stranden van het eiland Elba ligt op slechts een steenworp afstand van camping Ville Degli Ulivi. Er...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[http://www.eurocamp.nl//Images/IN020-elba-degli-ulivi-campsite-tuscany-beach-b_tcm14-2760.jpg]]></img_small>
-     	<internal_id>49245</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/marina-di-campo/49245/ville-degli-ulivi]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>14.00</minimum_price>
-     	<departure_date>20190505</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Ville degli Ulivi]]></title>
-     	<accommodation_name><![CDATA[Ville degli Ulivi]]></accommodation_name>
-     	<city_of_destination><![CDATA[Marina di Campo]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Camping</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>3</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Uappala Hotel Lacona staat aan de zuidkant van het eiland Elba, voor de Toscaanse kust. Het staat in een natuurreservaat, het nationale park van de Toscaanse eilanden. Het mooiste strand van het eiland en het kristalheldere water van de Baai van Lacona, liggen op een steenworp van het hotel. Een ideale vakantiebestemming voor wie met de hele familie wil genieten van strand, rust en natuurschoon!  familiekamers Kom je hier met de hele familie logeren, dan kun je kiezen uit een ruime...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[https://images.vrijuit.nl/app/upload/ProductPhotos/VU/Packages/S19/ZAUT/ISO.IT/geo.10800/05525A/8a8f99af589b29a30158c00103d822ce.jpg]]></img_small>
-     	<internal_id>27541</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/capoliveri/27541/lacona]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>37.00</minimum_price>
-     	<departure_date>20190506</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Club Valtur Lacona]]></title>
-     	<accommodation_name><![CDATA[Club Valtur Lacona]]></accommodation_name>
-     	<city_of_destination><![CDATA[Capoliveri]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Hotel</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>3</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Hotel Airone is een viersterrenhotel temidden van een ca. 60.000 m&sup2; groot park met uitzicht over Portoferraio. Het hotel beschikt over een zwembad en een bubbelbad in de open lucht, alsook een wellnesscentrum met o.a. een sauna en een stoombad. Tegen betaling kun je je laten verwennen met een massage of een schoonheidsbehandeling. Verder kun je fietsen huren en een partijtje tennis spelen. Aan het strand kun je surfen, duiken, beach volleybal spelen en waterfietsen huren. Voor een hapje...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05510A/8a8f99af5ed14513015ef280f3116833.jpg]]></img_small>
-     	<internal_id>29806</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/29806/airone]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>48.00</minimum_price>
-     	<departure_date>20190601</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Airone del Parco & delle Terme]]></title>
-     	<accommodation_name><![CDATA[Airone del Parco & delle Terme]]></accommodation_name>
-     	<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Hotel</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>4</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Le Acacie is een kindvriendelijk viersterrenvakantiepark in Capoliveri aan de populaire baai van Naregno op ca. 150 m van het priv&eacute;strand. Het vakantiecomplex bestaat uit een hotel met 80 hotelkamers en 70 appartementen verdeeld over 5 gebouwen, die maximaal tot ca. 250 m van het hotel gelegen zijn. Alle faciliteiten kunnen ook worden gebruikt door de gasten van de appartementen. In het openluchtzwembad kun je een verfrissende duik nemen. Actievelingen kunnen verder nog tennissen,...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05521A.F/8a8f99af574c380801574ff05809341c.jpg]]></img_small>
-     	<internal_id>29807</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/capoliveri/29807/le-acacie]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>52.00</minimum_price>
-     	<departure_date>20190601</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Le Acacie]]></title>
-     	<accommodation_name><![CDATA[Le Acacie]]></accommodation_name>
-     	<city_of_destination><![CDATA[Capoliveri]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Hotel</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>4</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Camping Rosselba Le Palme ligt verscholen tussen de bergen op het prachtige eiland Elba. Tijdens de vakantie moet je zeker even over Elba rijden om alle schitterende baaitjes en strandjes te bezoeken. De camping heeft een erg mooie botanische tuin en ook een verfrissend zwembad met bubbelbad en glijbanen waar de kinderen, maar ook de volwassenen genoeg waterplezier kunnen beleven. speelruimte zonder toezicht, speeltuin, kidsclub en kinderdisco babybedje ca. € 1,00 per nacht (bij boeking...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[http://media.tui.nl/DE5/DE569E08C422D34BB94FF376B7E8813C.jpg]]></img_small>
-     	<internal_id>35675</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/35675/rosselba-le-palme]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>61.00</minimum_price>
-     	<departure_date>20190921</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Rosselba Le Palme]]></title>
-     	<accommodation_name><![CDATA[Rosselba Le Palme]]></accommodation_name>
-     	<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Camping</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>3</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Club Ortano Mare ligt direct aan het priv&eacute;strand waar je heerlijk tot rust kunt komen. Dit park is uitermate geschikt voor families met kinderen door de verschillende kinderclubs en sportfaciliteiten! Rio Marina ligt op zo'n 4 km en het openbare strand op ca. 300 m. Het vakantiepark is uitermate geschikt voor families met kinderen en heeft een leuke mini- en juniorclub. Daarnaast worden er veel watersportactiviteiten geroganiseerd zoals aquarobics en kano&euml;n. Je kan kiezen of je...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05511A.F/8a8f99af663e885701663f0f9187798c.jpg]]></img_small>
-     	<internal_id>27363</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/rio-marina/27363/club-ortano-mare]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>66.00</minimum_price>
-     	<departure_date>20190525</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Ortano Mare Village & Residence]]></title>
-     	<accommodation_name><![CDATA[Ortano Mare Village & Residence]]></accommodation_name>
-     	<city_of_destination><![CDATA[Rio Marina]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Appartement</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>4</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Hotel Desir&eacute;e is een viersterrenhotel gelegen op slechts 800 m van het centrum met winkeltjes en terrasjes. Dit hotel geniet van een unieke ligging in een park van 7 hectare met directe toegang tot het strand. In het restaurant, de pizzeria, het grillrestaurant of in de snackbar op het strand kun je proeven van lekkere Italiaanse gerechten. Dit hotel beschikt over een strand, zwembad met zeewater, tennisbanen, fitnessruimte, fietsen en schoonheidssalon. Voor de kinderen is er een...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05534A/8a8f99af58439caf015843e0fb285e47.jpg]]></img_small>
-     	<internal_id>73418</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/procchio/73418/desiree]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>72.00</minimum_price>
-     	<departure_date>20190518</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Désirée]]></title>
-     	<accommodation_name><![CDATA[Désirée]]></accommodation_name>
-     	<city_of_destination><![CDATA[Procchio]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Hotel</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>4</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
-<item>
-      <category>Pakketreis</category>
-     	<daisycon_unique_id></daisycon_unique_id>
-     	<description><![CDATA[Hotelcomplex: modern. Aantal kamers/accommodaties in totaal: 76. Ontvangsthal, Receptie, Draadloos internet (inbegrepen), in het hele gebouw. Aantal restaurants in totaal: 1. Aantal bars: 2. Zwembadbar. Lounge. Buitencomplex: verzorgd; Tuin, Zonneterras. Aantal zwembaden: 2 . Ligbedden (o.b.v. beschikbaarheid): bij het zwembad (inbegrepen); op het strand (inbegrepen), Aantal: 2 per kamer, Ligstoelen. Parasols (o.b.v. beschikbaarheid): bij het zwembad (inbegrepen); op het strand (inbegrepen),...]]></description>
-     	<img_large></img_large>
-     	<img_medium></img_medium>
-     	<img_small><![CDATA[http://imgsrv.kolb-digital.de/800px/2018_0000324586.jpg]]></img_small>
-     	<internal_id>27540</internal_id>
-     	<keywords></keywords>
-     	<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/27540/fabricia]]></link>
-     	<maximum_price></maximum_price>
-     	<minimum_price>325.00</minimum_price>
-     	<departure_date>20190909</departure_date>
-     	<priority></priority>
-     	<sub_category>Accommodatie</sub_category>
-     	<title><![CDATA[Fabricia]]></title>
-     	<accommodation_name><![CDATA[Fabricia]]></accommodation_name>
-     	<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
-     	<continent_of_destination>Middellandse Zee</continent_of_destination>
-     	<country_of_destination>Italië</country_of_destination>
-     	<accommodation_type>Hotel</accommodation_type>
-     	<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
-     	<max_nr_people></max_nr_people>
-     	<min_nr_people></min_nr_people>
-     	<offer_valid_from_date></offer_valid_from_date>
-     	<offer_valid_to_date></offer_valid_to_date>
-     	<region_of_destination><![CDATA[Elba]]></region_of_destination>
-     	<stars>4</stars>
-     	<terms_and_condition></terms_and_condition>
-    </item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Een gezellige camping op het mooie eiland Elba. Pal aan een zandstrand en met een mooi groot zwembad. Volop mogelijkheden voor watersport in de buurt. Van de veerboot het eiland Elba op stappen is één ding. Aankomen op camping Ville Degli Ulivi - en de warme zon voelen, de zilte zeelucht ruiken en de kleurrijke bloemen zien - is iets heel andersâ?¦ Reken op een warm welkom. Een van de beste stranden van het eiland Elba ligt op slechts een steenworp afstand van camping Ville Degli Ulivi. Er...]]></description>
+		<img_small><![CDATA[http://www.eurocamp.nl//Images/IN020-elba-degli-ulivi-campsite-tuscany-beach-b_tcm14-2760.jpg]]></img_small>
+		<internal_id>49245</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/marina-di-campo/49245/ville-degli-ulivi]]></link>
+		<minimum_price>14.00</minimum_price>
+		<departure_date>20190505</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Ville degli Ulivi]]></title>
+		<city_of_destination><![CDATA[Marina di Campo]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Camping</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>3</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Uappala Hotel Lacona staat aan de zuidkant van het eiland Elba, voor de Toscaanse kust. Het staat in een natuurreservaat, het nationale park van de Toscaanse eilanden. Het mooiste strand van het eiland en het kristalheldere water van de Baai van Lacona, liggen op een steenworp van het hotel. Een ideale vakantiebestemming voor wie met de hele familie wil genieten van strand, rust en natuurschoon!  familiekamers Kom je hier met de hele familie logeren, dan kun je kiezen uit een ruime...]]></description>
+		<img_small><![CDATA[https://images.vrijuit.nl/app/upload/ProductPhotos/VU/Packages/S19/ZAUT/ISO.IT/geo.10800/05525A/8a8f99af589b29a30158c00103d822ce.jpg]]></img_small>
+		<internal_id>27541</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/capoliveri/27541/lacona]]></link>
+		<minimum_price>37.00</minimum_price>
+		<departure_date>20190506</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Club Valtur Lacona]]></title>
+		<city_of_destination><![CDATA[Capoliveri]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Hotel</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>3</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Hotel Airone is een viersterrenhotel temidden van een ca. 60.000 m&sup2; groot park met uitzicht over Portoferraio. Het hotel beschikt over een zwembad en een bubbelbad in de open lucht, alsook een wellnesscentrum met o.a. een sauna en een stoombad. Tegen betaling kun je je laten verwennen met een massage of een schoonheidsbehandeling. Verder kun je fietsen huren en een partijtje tennis spelen. Aan het strand kun je surfen, duiken, beach volleybal spelen en waterfietsen huren. Voor een hapje...]]></description>
+		<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05510A/8a8f99af5ed14513015ef280f3116833.jpg]]></img_small>
+		<internal_id>29806</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/29806/airone]]></link>
+		<minimum_price>48.00</minimum_price>
+		<departure_date>20190601</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Airone del Parco & delle Terme]]></title>
+		<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Hotel</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>4</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Le Acacie is een kindvriendelijk viersterrenvakantiepark in Capoliveri aan de populaire baai van Naregno op ca. 150 m van het priv&eacute;strand. Het vakantiecomplex bestaat uit een hotel met 80 hotelkamers en 70 appartementen verdeeld over 5 gebouwen, die maximaal tot ca. 250 m van het hotel gelegen zijn. Alle faciliteiten kunnen ook worden gebruikt door de gasten van de appartementen. In het openluchtzwembad kun je een verfrissende duik nemen. Actievelingen kunnen verder nog tennissen,...]]></description>
+		<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05521A.F/8a8f99af574c380801574ff05809341c.jpg]]></img_small>
+		<internal_id>29807</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/capoliveri/29807/le-acacie]]></link>
+		<minimum_price>52.00</minimum_price>
+		<departure_date>20190601</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Le Acacie]]></title>
+		<city_of_destination><![CDATA[Capoliveri]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Hotel</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>4</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Camping Rosselba Le Palme ligt verscholen tussen de bergen op het prachtige eiland Elba. Tijdens de vakantie moet je zeker even over Elba rijden om alle schitterende baaitjes en strandjes te bezoeken. De camping heeft een erg mooie botanische tuin en ook een verfrissend zwembad met bubbelbad en glijbanen waar de kinderen, maar ook de volwassenen genoeg waterplezier kunnen beleven. speelruimte zonder toezicht, speeltuin, kidsclub en kinderdisco babybedje ca. € 1,00 per nacht (bij boeking...]]></description>
+		<img_small><![CDATA[http://media.tui.nl/DE5/DE569E08C422D34BB94FF376B7E8813C.jpg]]></img_small>
+		<internal_id>35675</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/35675/rosselba-le-palme]]></link>
+		<minimum_price>61.00</minimum_price>
+		<departure_date>20190921</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Rosselba Le Palme]]></title>
+		<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Camping</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>3</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Club Ortano Mare ligt direct aan het priv&eacute;strand waar je heerlijk tot rust kunt komen. Dit park is uitermate geschikt voor families met kinderen door de verschillende kinderclubs en sportfaciliteiten! Rio Marina ligt op zo'n 4 km en het openbare strand op ca. 300 m. Het vakantiepark is uitermate geschikt voor families met kinderen en heeft een leuke mini- en juniorclub. Daarnaast worden er veel watersportactiviteiten geroganiseerd zoals aquarobics en kano&euml;n. Je kan kiezen of je...]]></description>
+		<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05511A.F/8a8f99af663e885701663f0f9187798c.jpg]]></img_small>
+		<internal_id>27363</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/rio-marina/27363/club-ortano-mare]]></link>
+		<minimum_price>66.00</minimum_price>
+		<departure_date>20190525</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Ortano Mare Village & Residence]]></title>
+		<city_of_destination><![CDATA[Rio Marina]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Appartement</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>4</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Hotel Desir&eacute;e is een viersterrenhotel gelegen op slechts 800 m van het centrum met winkeltjes en terrasjes. Dit hotel geniet van een unieke ligging in een park van 7 hectare met directe toegang tot het strand. In het restaurant, de pizzeria, het grillrestaurant of in de snackbar op het strand kun je proeven van lekkere Italiaanse gerechten. Dit hotel beschikt over een strand, zwembad met zeewater, tennisbanen, fitnessruimte, fietsen en schoonheidssalon. Voor de kinderen is er een...]]></description>
+		<img_small><![CDATA[https://images.neckermann.nl/app/upload/ProductPhotos/NVN/Packages/S19/ZAUT/ISO.IT/geo.10800/05534A/8a8f99af58439caf015843e0fb285e47.jpg]]></img_small>
+		<internal_id>73418</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/procchio/73418/desiree]]></link>
+		<minimum_price>72.00</minimum_price>
+		<departure_date>20190518</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Désirée]]></title>
+		<city_of_destination><![CDATA[Procchio]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Hotel</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>4</stars>
+	</item>
+	<item>
+		<category>Pakketreis</category>
+		<daisycon_unique_id></daisycon_unique_id>
+		<description><![CDATA[Hotelcomplex: modern. Aantal kamers/accommodaties in totaal: 76. Ontvangsthal, Receptie, Draadloos internet (inbegrepen), in het hele gebouw. Aantal restaurants in totaal: 1. Aantal bars: 2. Zwembadbar. Lounge. Buitencomplex: verzorgd; Tuin, Zonneterras. Aantal zwembaden: 2 . Ligbedden (o.b.v. beschikbaarheid): bij het zwembad (inbegrepen); op het strand (inbegrepen), Aantal: 2 per kamer, Ligstoelen. Parasols (o.b.v. beschikbaarheid): bij het zwembad (inbegrepen); op het strand (inbegrepen),...]]></description>
+		<img_small><![CDATA[http://imgsrv.kolb-digital.de/800px/2018_0000324586.jpg]]></img_small>
+		<internal_id>27540</internal_id>
+		<link><![CDATA[http://demo.travelpulse.nl/vakantie/italie/elba/portoferraio/27540/fabricia]]></link>
+		<minimum_price>325.00</minimum_price>
+		<departure_date>20190909</departure_date>
+		<sub_category>Accommodatie</sub_category>
+		<title><![CDATA[Fabricia]]></title>
+		<city_of_destination><![CDATA[Portoferraio]]></city_of_destination>
+		<continent_of_destination>Middellandse Zee</continent_of_destination>
+		<country_of_destination>Italië</country_of_destination>
+		<accommodation_type>Hotel</accommodation_type>
+		<holiday_type><![CDATA[Zonvakanties]]></holiday_type>
+		<region_of_destination><![CDATA[Elba]]></region_of_destination>
+		<stars>4</stars>
+	</item>
 </items>
