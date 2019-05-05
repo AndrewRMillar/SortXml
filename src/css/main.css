@@ -1,3 +1,8 @@
+:root {
+  --red: #e32636;
+  --darkred: #d43542;
+  --noveriusgrey: #29383d;
+}
 .stars-inner {
   font-family: "Font Awesome 5 Free";
   position: absolute;
@@ -16,12 +21,33 @@
 }
 .stars-inner::before {
   content: "\f005 \f005 \f005 \f005 \f005";
-  color: #007bff;
+  color: var(--red);
 }
 small.small {
   float: right;
   transform: translateY(3px);
 }
+.btn-primary {
+  background-color: var(--red);
+  border-color: var(--red);
+}
+.btn-primary:hover, 
+.btn-primary:active, 
+.btn-primary:not(:disabled):not(.disabled):active {
+  background-color: var(--darkred);
+  border-color: var(--darkred);
+}
+.btn-outline-primary {
+  color: var(--red);
+  border-color: var(--darkred);
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:active,
+.btn-outline-primary:not(:disabled):not(.disabled):active {
+  background-color: var(--red);
+  border-color: var(--darkred);
+}
+
 a#logo {
   display: block;
   width: 100%;
@@ -34,5 +60,5 @@ a#logo {
   transition: all 0.5s;
 }
 .noverius-header {
-  background-color: #29383d;
+  background-color: var(--noveriusgrey);
 }
