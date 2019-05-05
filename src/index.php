@@ -41,8 +41,6 @@ function sort_by($a, $b) {
 }
 
 usort($sortable, 'sort_by');
-
-// print_r($sortable);
 // End sort
 
 $json = json_encode($sortable);
