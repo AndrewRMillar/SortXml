@@ -6,7 +6,6 @@
   $g_sort_variable = ""; // made global in sort_by(); "$g_"
   $sorteer = "";
 
-  // Sorteer start
   if($_GET["sorteer"] ?? 0) { // daar heb je um!
     if($_GET["sorteer"] && $_GET["sorteer"] === "prijs") {
       $sorteer = htmlspecialchars($_GET["sorteer"]);
@@ -25,5 +24,6 @@
 
   usort($sortable, 'sort_by');
 
+  // Maak van een SimpleXMLElement Object een php array
   $json = json_encode($sortable);
   $data_array = json_decode($json, true);
