@@ -1,4 +1,6 @@
 <?php
+
+// TODO: Make when klicking the buttons for a second time the order is reversed
   
   $path = 'http://demo.travelpulse.nl/sites/default/files/feeds/accofeed.xml';
   $xml_file = file_get_contents($path);
