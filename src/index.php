@@ -27,8 +27,8 @@
     <div class="row">
       <div class="btn-group mt-2 btn-block" role="group" aria-label="Basic example">
         <button class="btn btn-light">sorteer op: </button>
-        <a href="index.php<?= $sorteer == "prijs"? "": "?sorteer=prijs" ?>" class="btn <?= $sorteer == "prijs" ? "btn-primary" : "btn-secondary" ?>">Prijs</a>
-        <a href="index.php<?= $sorteer == "naam"? "": "?sorteer=naam" ?>" class="btn <?= $sorteer == "naam" ? "btn-primary" : "btn-secondary" ?>">Naam</a>
+        <a href="index.php<?= $sorteer === "prijs"? "": "?sorteer=prijs" ?>" class="btn <?= $sorteer === "prijs" ? "btn-primary" : "btn-secondary" ?>">Prijs</a>
+        <a href="index.php<?= $sorteer === "naam"? "": "?sorteer=naam" ?>" class="btn <?= $sorteer === "naam" ? "btn-primary" : "btn-secondary" ?>">Naam</a>
       </div>
       <?php 
         foreach ($data_array as $items) { 
